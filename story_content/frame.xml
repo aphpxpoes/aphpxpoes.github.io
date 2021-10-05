@@ -77,7 +77,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1228,7 +1228,17 @@
             <slidelink slideid="_player.6KLvMNSRlT2.612zqsmjfwm" displaytext="Pengenalan Desa" expand="false" type="slide" />
             <slidelink slideid="_player.6KLvMNSRlT2.6pFsQjchCou" displaytext="Rumah" expand="false" type="slide" />
             <slidelink slideid="_player.6KLvMNSRlT2.5xjKzqOeOo8" displaytext="Rumah - Setelah Perpus" expand="false" type="slide" />
-            <slidelink slideid="_player.6KLvMNSRlT2.5gNNGejD120" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6KLvMNSRlT2.6ds0Lc9xrYG" displaytext="Rumah - Setelah Peternakan" expand="false" type="slide" />
+            <slidelink slideid="_player.6KLvMNSRlT2.5gNNGejD120" displaytext="Map - Perpus" expand="false" type="slide" />
+            <slidelink slideid="_player.6KLvMNSRlT2.6iTe2rcl9U9" displaytext="Map - Peternakan" expand="false" type="slide" />
+            <slidelink slideid="_player.6KLvMNSRlT2.6ZEPcoeaUHw" displaytext="Map - Rumah" expand="false" type="slide" />
+            <slidelink slideid="_player.6KLvMNSRlT2.5VGICwbLEEn" displaytext="Peternakan" expand="false" type="slide" />
+            <slidelink slideid="_player.6KLvMNSRlT2.5hB7UzQaf8E" displaytext="Perpustakaan" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Oj0qUXwTQa" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Oj0qUXwTQa.5xck7JMaBZr" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
