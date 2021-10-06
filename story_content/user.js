@@ -2,11 +2,14 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "60zM16iDnFf":
+      case "6RCfXtWoDSG":
         Script1();
         break;
-      case "5whO6oLDgp7":
+      case "5XyKsITmpRl":
         Script2();
+        break;
+      case "6DKE1NZgx1H":
+        Script3();
         break;
   }
 }
@@ -17,6 +20,11 @@ function Script1()
 }
 
 function Script2()
+{
+  <input type="password" id="pswd" placeholder="pswd" />
+}
+
+function Script3()
 {
   <input type="password" id="pswd" placeholder="pswd" />
 }
